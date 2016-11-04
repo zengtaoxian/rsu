@@ -1,0 +1,3 @@
+[console_scripts]
+rsu = rsu.rsu:main
+

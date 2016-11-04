@@ -1,0 +1,21 @@
+{
+  "base_dir": "/root/ftp/",
+  "file_dir": "file",
+  "dlfail_dir": "dlfail",
+  "ulfail_dir": "ulfail",
+  "done_dir": "done",
+  "log_level": "INFO",
+  "scan_time": 1,
+  "ftp_ip": "192.168.1.100",
+  "ftp_port": 1111,
+  "ftp_username": "ftp_username",
+  "ftp_password": "ftp_password",
+  "pool_num": 6,
+  "endpoint": "endpoint",
+  "key_id": "key_id",
+  "key_secret": "key_secret",
+  "bucket": "bucket",
+  "brand_map": {
+    "brand": "path"
+  }
+}
